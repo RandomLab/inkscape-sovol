@@ -15,3 +15,9 @@ cp -Rf * ~/.config/inkscape/extensions/
 ## Windows install
 
 You download inkscape with this plugin embedded [here](https://www.sovol3d.com/pages/so-1-document-download).
+
+## How to use
+
+- Draw a path
+- save the file to gcode > SO-1 or SO-2
+- copy on sdcard 
